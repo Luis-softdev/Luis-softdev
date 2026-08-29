@@ -1,6 +1,6 @@
 
 ### Hello, I'm Luis Fernando! ✅
-I'm a Software Engineeri. I have a special attachment to Front-End, I like to understand user needs and apply my design knowledge in my applications. I currently work in the area and studying with more and more enthusiasm, the challenges that programming gives me
+I'm a Software Engineer. I have a special attachment to Front-End, I like to understand user needs and apply my design knowledge in my applications. I currently work in the area and studying with more and more enthusiasm, the challenges that programming gives me
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="alto">
